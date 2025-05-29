@@ -46,8 +46,8 @@ main .info-container {
 	backdrop-filter: blur(7px);
 	-webkit-backdrop-filter: blur(7px);
 	border-radius: 20px;
-	max-width: 450px;
-	min-height: 450px;
+	max-width: 300px;
+	min-height: 300px;
 	position: relative;
 	margin: auto;
 	margin-top: 30px;
